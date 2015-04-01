@@ -1,7 +1,6 @@
 # projects
 
-## Scat
-* [repo](https://github.com/aguestuser/scat)
+#### [Scat](https://github.com/aguestuser/scat)
 * _description_: Chat server in Scala the hard way! Ie: functional and non-blocking without using Actors -- only Futures & hand-rolled wrappers around Java's NIO2 library.
 
 ## Supreme Clientele (Work In Progress)
